@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="unit_options_array">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+    <string name="unit_default_input">0</string>
+
+    <string name="length_cm">Centimetre</string>
+    <string name="length_ft">Foot</string>
+    <string name="length_in">Inch</string>
+
+    <string name="weight_g">Gram</string>
+    <string name="weight_oz">Ounce(Oz)</string>
+    <string name="weight_lb">Pound(lb)</string>
+
+    <string name="temperature_f">Fahrenheit</string>
+    <string name="temperature_k">Kelvin</string>
+
+    <string name="button_length">📏</string>
+    <string name="button_weight">⚖️</string>
+    <string name="button_temperature">🌡️</string>
+</resources>
